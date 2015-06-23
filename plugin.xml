@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-        id="com.zpeterg.plugins.healthkit"
+        id="com.zpeterg.plugins.healthkit2"
         version="0.3.5">
 
-  <name>HealthKit</name>
+  <name>HealthKit2</name>
 
   <description>
     Interact with the iOS8 HealthKit SDK
